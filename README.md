@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kartiklk
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning nodejs for back-end development
+- 🌱 I’m currently 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kartikkhode21@gmail.com
 
