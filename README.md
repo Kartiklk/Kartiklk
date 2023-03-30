@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kartiklk
+- 👋 Hi, I’m Kartik khode
 - 👀 I’m interested in software development
 - 🌱 I’m currently 
 - 💞️ I’m looking to collaborate on ...
