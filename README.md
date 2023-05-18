@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kartik khode
 - 👀 I’m interested in software development
 - 🌱 I’m currently looking for job
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me kartikkhode21@gmail.com
 
 <!---
